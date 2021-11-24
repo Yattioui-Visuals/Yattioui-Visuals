@@ -1,0 +1,11 @@
+Superuser:
+		admin
+		Patchman@1
+
+Administrator:
+		Administrator
+		tf6Lw8fztiFGeek
+
+Author:
+		Author
+		tf6Lw8fztiFGeek
